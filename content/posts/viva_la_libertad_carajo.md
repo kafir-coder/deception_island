@@ -10,6 +10,6 @@ draft: false
 
 The human being has the right of humanity, the human being has the right of freedom of thinking and action, unless that action is explicitly harming someone
 
-The human being has the right of knowledge, which is necessary to the aquisition of capital through services or products offering, in that way the capital is used to consume and with this grow the surrounding economy
+The human being has the right of knowledge, which is necessary to the aquisition of capital through services or products offering, in that way the capital is used to consume and in consequence growing the surrounding economy
 
 Libertad, carajo!!!
