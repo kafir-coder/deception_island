@@ -4,6 +4,7 @@ title = "Deception Island"
 
 copyright = "© Copyright notice"
 
+canonifyURLs = true 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
