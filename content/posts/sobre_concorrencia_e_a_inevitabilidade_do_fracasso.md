@@ -1,5 +1,5 @@
 ---
-title: "Sobre Concorrencia e a inevitabilidade do fracasso"
+title: "Sobre concorrencia e a inevitabilidade do fracasso"
 date: 2019-08-25T19:11:34+04:00
 tags: ["portuguese", "philosophical", "thinking", "black pill"]
 draft: false
